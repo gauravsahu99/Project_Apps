@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Apna Betul — Shopkeeper",
+    "slug": "apna-betul-shopkeeper",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6B35"
+    },
+    "ios": { "supportsTablet": false },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FF6B35"
+      }
+    },
+    "scheme": "shopkeeper"
+  }
+}
